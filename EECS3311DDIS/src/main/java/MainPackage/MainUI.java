@@ -5,7 +5,7 @@
  * THE CODE BELOW DOES NOT DEPICT THE DESIGN TO BE FOLLOWED 
  */
 
-package statsVisualiser.gui;
+package MainPackage;
 
 import java.awt.BasicStroke;
 import java.awt.BorderLayout;
